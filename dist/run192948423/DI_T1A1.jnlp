@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="DI_T1A1.jnlp">
+  <information>
+    <title>DI_T1A1</title>
+    <vendor>Masterpepe</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="DI_T1A1.jar" size="129468" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="DI_T1A1_Ap42.EjTimeline"  name="DI_T1A1" />
+  <update check="always"/>
+</jnlp>
